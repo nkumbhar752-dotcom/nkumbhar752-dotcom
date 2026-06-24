@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**nkumbhar752-dotcom/nkumbhar752-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi 👋, I'm Nikita Kumbhar
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BCA Graduate (2026) from Sadguru Gadge Maharaj College, Karad
+🌱 Currently Learning:
+
+* Python
+* C Programming
+* Data Analytics
+
+💻 Tools & Technologies:
+
+* Visual Studio Code
+* Git
+* GitHub
+
+🎯 Career Goal:
+Become a Python Developer and build real-world applications.
+
+🚀 Areas of Interest:
+
+* Web Development
+* Data Analysis
+* Programming
+* Communication Skills
+
+📚 Currently improving my coding skills and working on Python projects.
+## Connect With Me
+
+Stay tuned! More projects and updates coming soon.
+Thanks for visiting my profil...
