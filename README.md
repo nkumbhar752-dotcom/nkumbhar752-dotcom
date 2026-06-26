@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi 👋, I'm Nikita Kumbhar
+# Hi 👋, I'm Nikita Kumbhar
 
 ## About Me
 
@@ -28,7 +28,8 @@ Become a Python Developer and build real-world applications.
 * Communication Skills
 
 📚 Currently improving my coding skills and working on Python projects.
+
 ## Connect With Me
 
 Stay tuned! More projects and updates coming soon.
-Thanks for visiting my profil...
+Thanks for visiting my profile!
